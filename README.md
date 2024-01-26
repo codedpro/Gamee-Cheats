@@ -20,8 +20,8 @@ Gamee-Cheats is a graphical user interface (GUI) cheat tool designed for the Gam
 3. Enter the Game link, Score, and Time in the provided fields.
 4. Click the "Submit" button to apply the cheat.
 
-### Additional Option (APK):
-- Alternatively, you can download the APK from the "builds" section and install it on your device.
+### Additional Option (exe):
+- Alternatively, you can download the exe from the "builds" section and install it on your device.
 
 ## Script Details
 The Python script uses PySimpleGUI for the GUI and includes the following key functions:
