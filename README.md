@@ -10,10 +10,12 @@ Gamee-Cheats is a graphical user interface (GUI) cheat tool designed for the Gam
 
 ## How to Use
 1. Install dependencies by running the following command in your terminal:
+
     ```
     pip install -r requirements.txt
     ```
 2. Run the Python script:
+
     ```
     python CodedCheats.py
     ```
