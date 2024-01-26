@@ -15,7 +15,7 @@ Gamee-Cheats is a graphical user interface (GUI) cheat tool designed for the Gam
     ```
 2. Run the Python script:
     ```
-    python your_script_name.py
+    python CodedCheats.py
     ```
 3. Enter the Game link, Score, and Time in the provided fields.
 4. Click the "Submit" button to apply the cheat.
